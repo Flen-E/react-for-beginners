@@ -14,7 +14,7 @@ function Hello() {
 
 }
 
-function App1() {
+function CleanUp() {
     const [showing, setShowing] = useState(false);
     const onClick = () => {
         setShowing((prev)=>!prev);
@@ -29,4 +29,4 @@ function App1() {
 
 }
 
-export default App1;
+export default CleanUp;

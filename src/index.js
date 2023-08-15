@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import ReactHook from './ReactHook';
+import CleanUp from './CleanUp';
 import App from './App';
-import App1 from './App1';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   // <React.StrictMode>
-    <App1 />
+    <App />
   // </React.StrictMode>
 );
