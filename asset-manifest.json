@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Flen-E/react-for-beginners.git/static/css/main.b73d7ffa.css",
+    "main.js": "/Flen-E/react-for-beginners.git/static/js/main.1e206e35.js",
+    "index.html": "/Flen-E/react-for-beginners.git/index.html",
+    "main.b73d7ffa.css.map": "/Flen-E/react-for-beginners.git/static/css/main.b73d7ffa.css.map",
+    "main.1e206e35.js.map": "/Flen-E/react-for-beginners.git/static/js/main.1e206e35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b73d7ffa.css",
+    "static/js/main.1e206e35.js"
+  ]
+}
